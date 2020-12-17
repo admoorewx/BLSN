@@ -101,13 +101,13 @@ A few things to note:
 
 2) Assumes blowable snow is on the ground. 
 
-3) Assumes blowing snow is not possible if temperatures is > 37 F. 
+3) Assumes blowing snow is not possible if the temperature is > 37 F. 
 
 4) Does not take into account depth of the snow pack. 
 
 5) Further research is still needed to connect the 1 & 3 mile probabilities with real impacts. 
 
-6) IMPORTANT: Typically, an increase in wind speed of 1-3 knots is enough to drop visibilities from 1/2 to 1/4 mile 
+6) IMPORTANT: Typically, when the sustained winds are near 25-30 knots, an increase in wind speed of 1-3 knots is enough to drop visibilities from 1/2 to 1/4 mile 
    during most blowing snow/heavy snowfall scenarios! This may have important implications for forecasting blizzard
    conditions.
 
